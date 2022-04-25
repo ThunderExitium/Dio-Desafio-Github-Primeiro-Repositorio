@@ -1,0 +1,25 @@
+# Introdução a Gestão de Projetos e ao SCRUM :runner:
+
+###### Os Instrutores desse curso são Thiago Sano: PSM I pelo Scrum.org,PSPO i pelo Scrum.org e PMP pelo PMI. e o Diego Pereira: Digital Design - PUC-SP,MBA em Gerenciamento de negócios internacionais - Fundação Getulio Vargas e MBA em International Businees for International Professionals - University of California
+
+
+
+**Aula 1 - Introdução ao SCRUM**
+
+- Introdução a Gestão de Projetos e ao Scrum
+- Papéis e responsabilidades de cada um do time
+- Cerimônias do Scrum
+- Gestão de Projetos Tradicional  x Ágil
+
+
+
+**Aula 2 - Fundamentos de um projeto ágil**
+
+- Papéis e responsabilidades - Product Owner
+- Analisando escopo e definindo prioridades
+- Papel do PO na transformação digital
+
+**Aula 3 - Conceitos e atividades essenciais para o sucesso de um projeto ágil**
+
+- Aprenda sobre os conceitos e planejamento de tarefas
+- Rotinas de um time ágil

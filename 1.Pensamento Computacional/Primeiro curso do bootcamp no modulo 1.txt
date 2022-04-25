@@ -1,0 +1,20 @@
+# Pensamento computacional :thinking: 
+
+###### A instrutora desse curso é a Juliana Mascarenhas: Mestre em Modelagem Computacional - LNCC, Engenheira da Computação - UCP e Técnica de Telecomunicações - CEFET-RF
+
+**Visão Geral do Pensamento computacional**
+
+O curso começa com ela se apresentando,e nos mostrando uma visão geral do que será ensinado,e apontando os temas centrais que irão ser melhor explicados no decorrer do curso. Em seguida ela fala sobre habilidades complementares (Raciocínio Lógico e Aperfeiçoamento) que fazem parte do refinamento.
+
+**Pilares do Pensamento Computacional**
+
+Essa é a aula 2,onde é explicado os 4 pilares do pensamento computacional
+
+1. Decomposição
+2. Reconhecimento de padrões
+3. Abstração
+4. Algoritmos
+
+**Estudos de Caso**
+
+E para finalizar o curso são analisados 2 casos onde podemos utilizar o pensamento computacional,e entendemos que nem sempre utilizaremos os 4 pilares do pensamento computacional.

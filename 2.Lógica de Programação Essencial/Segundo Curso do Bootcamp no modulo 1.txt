@@ -1,0 +1,41 @@
+# Introdução à lógica e à programação 💻
+
+###### O Instrutor desse curso é o Denilson Bonatti: Especialista em MBA Gestão de Marcas e Marketing pela Universidade de Araraquara - Bacharel em Web Design - Universidade de Araraquara
+
+#### Aula 1 - Introdução à lógica e à programação
+
+Essa aula é dividida em 5 etapas:
+
+- Entendendo o que é lógica
+- Oque são algoritmos e pseudocódigo
+- Aprendendo fluxograma,variáveis e constantes
+- Tomadas de decisões e expressões
+- como utilizar a concatenação
+
+
+
+**Links Uteis**
+
+[Exemplo Minecraft](studio.code.org/s/mc/stage/1/puzzle/1}) - Etapa O que são algoritmos e pseudocódigos
+
+[Jogo de Lógica - Wolf,Sheep and Cabbage](www.proprofs.com/games/wolf-sheep-and-cabbage) - Etapa: O que são algoritmos e pseudocódigos
+
+[Instalar Flowgorithm](http://www.flowgorithm.org/download/) - Etapa: Aprendendo fluxograma,variáveis e constantes
+
+
+
+#### Aula 2 - Introdução ao Portugol
+
+Essa aula também é dividida em 5 etapas:
+
+- Aprenda como utilizar uma estrutura de repetição
+- O que são linguagens de programação ?
+- Aprenda a utilizar desvios condicionais e boas práticas em programação
+- Trabalhando com laços de repetição em Portugol
+- Aplicação prática com matrizes e vetores
+
+
+
+**Links Uteis**
+
+[Instalar Portugol](http://lite.acad.univali.br/portugol/) - EtapaÇ O que são linguagens de programação ?
